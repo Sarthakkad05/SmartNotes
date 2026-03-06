@@ -15,7 +15,7 @@ jobs:
 
     steps:
       - name: Mark stale issues and PRs
-        uses: actions/stale@28c0b7fbe1c4c9cbead9f7d5c3e2de3c8c0e5f6c
+        uses: actions/stale@9d5a0b4d7a0d8b4f2c5e7d5b8a6c2a3f7a2b1c9d
         with:
           repo-token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -32,4 +32,3 @@ jobs:
 
           stale-issue-label: stale
           stale-pr-label: stale
-          
