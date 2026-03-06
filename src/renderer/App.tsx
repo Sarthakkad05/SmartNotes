@@ -1,7 +1,11 @@
+import Sidebar from "@/components/common/Sidebar"
+import EditorWorkspace from "@/components/common/EditorWorkspace"
+
 export default function App() {
-    return (
-    <div className="h-screen bg-black text-white flex items-center justify-center text-3xl font-bold">
-        SmartNotes 
+  return (
+    <div className="flex h-screen">
+      <Sidebar/>
+      <EditorWorkspace />
     </div>
-    );
-  }
+  )
+}
