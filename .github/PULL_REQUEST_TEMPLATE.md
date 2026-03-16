@@ -1,23 +1,40 @@
-###  Addressed Issues:
-<!-- Link the issue this PR addresses -->
-Fixes #(issue number)
+<!-- What issue does this PR close? -->
+Closes #
 
 
-###  Screenshots/Recordings:
-<!-- If applicable, add screenshots or recordings to demonstrate the changes -->
+## 📝 Description
+
+<!-- A clear and concise description of what this pull request does. -->
+<!-- Include any context or background information if necessary. -->
+
+## 🔧 Changes Made
+
+<!-- List the changes you made in this pull request. -->
+<!-- For example:
+- Fixed a bug in the login flow.
+- Added a new feature for user profile customization.
+- Updated documentation for API endpoints.
+-->
+
+## 📷 Screenshots or Visual Changes (if applicable)
+
+<!-- Attach screenshots or GIFs to show visual changes, if any. -->
+<!-- Drag and drop screenshots here or provide a description of visual updates. -->
+
+## 🤝 Collaboration
+
+<!-- If you collaborated with someone on this pull request, mention their GitHub username or name here. -->
+Collaborated with: `@username` (optional)
 
 
-###  Additional Notes:
-<!-- Add any additional information, context, or notes for reviewers -->
+### ✅ Checklist
 
-
-## Checklist
-<!-- Mark items with [x] to indicate completion -->
-- [ ] My code follows the project's code style and conventions
-- [ ] I have made corresponding changes to the documentation
-- [ ] My changes generate no new warnings or errors
+- [ ] I have read the contributing guidelines.
+- [ ] I have added tests that prove my fix is effective or that my feature works.
+- [ ] I have added necessary documentation (if applicable).
+- [ ] Any dependent changes have been merged and published in downstream modules.
 - [ ] I have joined the [Discord server](https://discord.gg/hjUhu33uAn) and I will share a link to this PR with the project maintainers there
-- [ ] I have read the [Contributing Guidelines](./CONTRIBUTING.md)
+
 
 ## ⚠️ AI Notice - Important!
 
