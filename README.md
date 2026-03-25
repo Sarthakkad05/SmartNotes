@@ -48,7 +48,7 @@
 ---
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/AOSSIE-Org/SmartNotes/main/public/logo-icon.svg" width="140" alt="smart-notes-logo"/>
+<img src="public/logo-icon.svg" width="140" alt="smart-notes-logo"/>
 <h1>Smart Notes</h1>
 </div>
 
