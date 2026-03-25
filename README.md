@@ -48,7 +48,8 @@
 ---
 
 <div align="center">
-<h1>TODO: Project Name</h1>
+<img src="https://raw.githubusercontent.com/AOSSIE-Org/SmartNotes/main/public/logo-icon.svg" width="140" />
+<h1>Smart Notes</h1>
 </div>
 
 [TODO](https://TODO.stability.nexus/) is a ... TODO: Project Description.
